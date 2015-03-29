@@ -42,3 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 packages/Senparc.Weixin.MP.11.2.6/lib/net40/Senparc.Weixin.MP.XML
+*.dll
+*.pdb
+WeixinMP.v11.suo
+*.cache
+WeixinMP/obj/Debug/WeixinMP.csproj.FileListAbsolute.txt

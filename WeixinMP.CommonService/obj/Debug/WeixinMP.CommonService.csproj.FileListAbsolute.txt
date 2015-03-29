@@ -8,3 +8,4 @@ E:\GitHub\WeixinMP\WeixinMP.CommonService\bin\Debug\Senparc.Weixin.MP.xml
 E:\GitHub\WeixinMP\WeixinMP.CommonService\bin\Debug\Senparc.Weixin.QY.xml
 E:\GitHub\WeixinMP\WeixinMP.CommonService\obj\Debug\WeixinMP.CommonService.dll
 E:\GitHub\WeixinMP\WeixinMP.CommonService\obj\Debug\WeixinMP.CommonService.pdb
+E:\GitHub\WeixinMP\WeixinMP.CommonService\obj\Debug\WeixinMP.CommonService.csprojResolveAssemblyReference.cache
