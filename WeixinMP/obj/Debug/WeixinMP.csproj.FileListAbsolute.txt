@@ -1,0 +1,4 @@
+E:\GitHub\WeixinMP\WeixinMP\bin\WeixinMP.dll
+E:\GitHub\WeixinMP\WeixinMP\bin\WeixinMP.pdb
+E:\GitHub\WeixinMP\WeixinMP\obj\Debug\WeixinMP.dll
+E:\GitHub\WeixinMP\WeixinMP\obj\Debug\WeixinMP.pdb
